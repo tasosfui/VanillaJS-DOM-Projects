@@ -17,6 +17,4 @@ closeBtn.addEventListener("click", function () {
   modalOverlay.classList.remove("open-modal");
 });
 
-modalOverlay.addEventListener("click", function () {
-  modalOverlay.classList.remove("open-modal");
-});
+
